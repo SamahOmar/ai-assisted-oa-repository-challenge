@@ -1,3 +1,6 @@
+<!-- This is a comment.
+It will NOT appear when someone views the README on GitHub.
+
 <p align="center">
   <img width="49%" src="docs/images/how-it-works.png" alt="How it works: inspect the codebase, debug with an AI assistant, implement the fixes yourself, run the tests">
   <img width="49%" src="docs/images/workspace.png" alt="Editor with the mock open, six failing tests in the terminal, and an AI assistant that has just read the rules file">
@@ -98,3 +101,5 @@ Found a mock where a test is unfair, or the README doesn't define a tested behav
 ## License
 
 [MIT](LICENSE)
+
+-->
