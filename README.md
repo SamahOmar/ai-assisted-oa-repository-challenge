@@ -1,3 +1,43 @@
+# Understanding the Repository
+
+pay attention to these two important files:
+* README.md
+* requirements.txt
+---
+open terminal and make sure you are standing inside the project repository
+```bash
+cd repository_name
+```
+You should now be inside:
+```bash
+ai-assisted-oa-repository-challenge/
+```
+run the following  command: 
+```bash
+pip install -r requirements.txt
+```
+<br><br>
+<h3>1. Quick README Review</h3>
+Because time is limited, start with a quick overview of the project.
+
+Read:
+* The README title to identify the challenge.
+* The introductory paragraph to understand its purpose.
+You can return to the detailed requirements later when investigating specific test failures.
+<br>
+if it says that The backend is what the tests cover.
+<h3>2. Navigate to the Django backend</h3>
+
+```bash
+cd backend
+```
+<br>
+
+# Start with the failing tests
+run
+```bash
+pytest
+```
 <!-- This is a comment.
 It will NOT appear when someone views the README on GitHub.
 
