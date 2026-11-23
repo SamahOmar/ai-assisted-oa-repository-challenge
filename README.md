@@ -23,8 +23,9 @@ Because time is limited, start with a quick overview of the project.
 Read:
 * The README title to identify the challenge.
 * The introductory paragraph to understand its purpose.
+  
 You can return to the detailed requirements later when investigating specific test failures.
-<br>
+<br><br>
 if it says that The backend is what the tests cover.
 <h3>2. Navigate to the Django backend</h3>
 
