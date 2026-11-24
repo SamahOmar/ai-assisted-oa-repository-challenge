@@ -1,3 +1,5 @@
+<img src="OAGirl.jpg">
+
 # Understanding the Repository
 
 pay attention to these two important files:
